@@ -1,0 +1,7 @@
+in\SkillsTasker\config\WebConfig.class
+in\SkillsTasker\controller\SkillsTaskerController.class
+in\SkillsTasker\model\Skills.class
+in\SkillsTasker\model\Associate.class
+in\SkillsTasker\config\AppConfig.class
+in\SkillsTasker\model\AssociateSkills.class
+in\SkillsTasker\config\MyWebAppInitializer.class
